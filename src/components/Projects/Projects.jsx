@@ -1,6 +1,6 @@
 import React, { useRef } from 'react';
 import styles from './Projects.module.css';
-import {motion, useScroll, useTransform, } from '../../node_modules/framer-motion/dist/frame-motion';
+import {motion, useScroll, useTransform, } from 'framer-motion';
 
 const items = [
     {
