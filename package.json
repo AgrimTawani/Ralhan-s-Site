@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
 
-    "build": "npm list framer-motion && vite build",
+    "build": "npm install framer-motion && vite build",
 
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
