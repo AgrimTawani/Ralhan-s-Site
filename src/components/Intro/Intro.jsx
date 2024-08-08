@@ -33,7 +33,7 @@ const sliderVariants = {
 const Intro = () => {
   return (
     
-    <div div className={styles.Intro}>
+    <div className={styles.Intro}>
         <motion.div className={styles.textContainer} variants ={textVariants} initial="initial" animate="animate">
             <motion.h2 variants ={textVariants}> 
                 ADITYA RALHAN
