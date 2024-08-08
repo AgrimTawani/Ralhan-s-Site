@@ -1,7 +1,6 @@
 @import "../../vars.css";
 
 
-
 .aboutContainer{
     background: linear-gradient(180deg, var(--color-secondary), #0e1014);
     height: 800px;
