@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from './Intro.module.css'
-import { motion } from './dist/framer-motion';
+import { motion } from 'framer-motion';
 
 const textVariants = {
     initial: {
